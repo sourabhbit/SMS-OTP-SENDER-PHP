@@ -26,7 +26,7 @@ It uses:
 
 * Download the ZIP/RAR file from here
 
-* Only Change in Credential is required. API has to be changed before use. Sign up in [TEXTLOCAL]
+* Only Change in Credential.php is required. API has to be changed before use. Sign up in [TEXTLOCAL]
 
    [TEXTLOCAL]: <https://www.textlocal.in/>
    [Bootstrap]: <https://getbootstrap.com/>
