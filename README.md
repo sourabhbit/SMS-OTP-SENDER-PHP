@@ -13,20 +13,25 @@ It is a SMS OTP Verification Process powered in PHP7.
 
 It uses:
 
-* [HTML5] - HTML enhanced for web apps!
+* HTML5 - HTML enhanced for web apps!
 * [PHP7] - BackEnd Developement for Web Pages!
-* [CSS] - Style the web page.
+* CSS - Style the web page.
 * [Bootstrap] - great UI boilerplate for modern web apps
 
 ### Installation
 
-It requires XAMPP,WAMP or any other LocalServer to run.
+* It requires [XAMPP],[WAMP],[MAMP] or any other LocalServer to run.
 
-Install the XAMPP and start the server.
+* Install the XAMPP and start the server.
 
-Download the ZIP/RAR file from here
+* Download the ZIP/RAR file from here
 
-Change in Credential is only required. API has to be changed. Make your own account in [TEXTLOCAL]
+* Only Change in Credential is required. API has to be changed before use. Sign up in [TEXTLOCAL]
 
    [TEXTLOCAL]: <https://www.textlocal.in/>
+   [Bootstrap]: <https://getbootstrap.com/>
+   [PHP7]: <http://php.net/>
+   [XAMPP]: <https://www.apachefriends.org/index.html/>
+   [WAMP]: <http://www.wampserver.com//>
+   [MAMP]: <https://www.mamp.info/en//>
    
